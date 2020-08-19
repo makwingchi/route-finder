@@ -23,6 +23,10 @@ of each edge being the total number of automobile crashes nearby.
 - `HTML/CSS`
 
 ## Preview
-![demo1](/01.PNG)
+From University of Pennsylvania Van Pelt Library to Philadelphia City Hall, depart at 6pm
+<img src="01.JPG" alt="demo1"/>
 
-![demo2](/02.PNG)
+<br>
+
+From University of Pennsylvania Van Pelt Library to Philadelphia City Hall, depart at 8am.
+<img src="02.JPG" alt="demo2"/>
