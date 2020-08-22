@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#root, #map {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+}
+
+#filterForm {
+  position: absolute;
+  top: 10px;
+  z-index: 5;
+  width: 350px;
+  height: auto;
+  background: rgb(200, 200, 200, 0.5);
+  padding: 10px;
+  margin-top: 50px;
+  margin-left: 70px;
+  font-family: roboto;
+  font-size: 13px;
+  border-radius: 5px;
+}

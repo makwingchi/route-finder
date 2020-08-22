@@ -1,0 +1,1 @@
+export const UPDATE_GEOJSON = 'update_geojson';
