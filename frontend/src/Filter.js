@@ -17,7 +17,7 @@ class Filter extends Component {
   handleSubmit(e) {
     e.preventDefault();
 
-    var url = new URL("http://test-env.eba-qeayktdb.us-west-2.elasticbeanstalk.com/api")
+    var url = new URL("your-backend-url")
     // add get request parameters from this.state
     Object.keys(this.state).forEach((key, value) => { url.searchParams.append(key, this.state[key]) })
 
